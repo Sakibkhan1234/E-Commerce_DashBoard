@@ -1,0 +1,104 @@
+*{
+   margin: 0%;
+   padding: 0%;
+}
+.p{
+   background-color: skyblue;
+}
+.im{
+   width: 100px;
+   border-radius: 50%;
+}
+.nav-ul li{
+   display: inline-block;
+   padding: 10px  ;
+}
+.nav-ul{
+   background-color: skyblue;
+   width: 100%;
+   padding: 1px;
+}
+.l{
+   color: white;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 5px;
+}
+.s{
+   color: white;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 3100%;
+}
+.a{
+   color: white;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 2400%;
+}
+.Footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: skyblue;
+    padding: 10px;
+}
+.form{
+   margin-left: 22%;
+   margin-top: 5%;
+   width: 55%;
+   text-align: center;
+   
+}
+.mainf{
+      border: 2px solid black;
+      width: 30%;
+      margin-left: 30%;
+      margin-top: 6%;
+      padding: 1%;
+}
+.r{
+   margin-left: 33%;
+}
+.k{
+   margin-left: 25%;
+}
+.mainf1{
+   border: 2px solid black;
+   width: 30%;
+   margin-left: 30%;
+   padding: 1%;
+}
+.err{
+   color: red;
+    font-weight: 500;
+}
+.get{
+   text-align: center;
+   margin-top: 50px;
+}
+.get ul li{
+   display: inline-block;
+   border: 1px solid red;
+   padding: 5px;
+   width: 150px;
+   font-weight: 500;
+}
+.get ul{
+   margin: 0%;
+}
+.d{
+   border-radius: 5px;
+  background-color: red;
+  color: azure;
+}
+.S{
+   width: 40%;
+   margin-left: 30%;
+   margin-bottom: 1%;
+   border: 3px solid red;
+}
+/* .W{
+   border: 2px solid black;
+} */
